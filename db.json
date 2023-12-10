@@ -1,0 +1,16 @@
+{
+    "todos": [
+        {
+          "id": 1,
+          "title": "Go groceries",
+          "description": "Buy yourself some meat, fruits, vegetables for a week!",
+          "status": "Ожидание"
+        },
+        {
+          "id": 2,
+          "title": "Study",
+          "description": "Practice frontend development please",
+          "status": "Ожидание",
+        }
+      ]
+}
